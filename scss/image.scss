@@ -1,5 +1,5 @@
 @if $enable-decoration-image == "true" {
-  @media all and (min-width: 1450px) {
+  @media all and (min-width: 600px) {
     #main {
       &:before, &:after {
         content: "";
